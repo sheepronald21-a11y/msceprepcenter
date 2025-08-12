@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MSCE Prep Center</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="MSCE Prep Center Logo" class="logo">
+    <h1>MSCE Prep Center</h1>
+    <p>Your gateway to success in the Malawi School Certificate of Education</p>
+  </header>
+
+  <section class="hero">
+    <h2>Prepare, Practice, Succeed</h2>
+    <p>Access past papers, study guides, and expert tips — all for free.</p>
+  </section>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#resources">Resources</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We provide free educational resources and exam preparation materials for students aiming to excel in their MSCE exams.</p>
+  </section>
+
+  <section id="resources">
+    <h2>Resources</h2>
+    <ul>
+      <li>Past papers with solutions</li>
+      <li>Study guides and notes</li>
+      <li>Subject-specific tips</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email us at: <a href="mailto:info@msceprepcenter.com">info@msceprepcenter.com</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 MSCE Prep Center. All rights reserved.</p>
+  </footer>
+</body>
+</html>
